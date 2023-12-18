@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "wordmachine.h": "c",
+        "boolean.h": "c",
+        "charmachine.h": "c",
+        "stack.h": "c",
+        "pengguna.h": "c",
+        "permintaanpertemanan.h": "c",
+        "prioqueuefren.h": "c",
+        "adt.h": "c",
+        "time.h": "c",
+        "datetime.h": "c",
+        "kicauan.h": "c",
+        "stat.h": "c",
+        "sstream": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "includeadt.h": "c",
+        "math.h": "c",
+        "types.h": "c",
+        "balasan.h": "c",
+        "drafkicauan.h": "c",
+        "utas.h": "c",
+        "simpanmuat.h": "c",
+        "teman.h": "c"
+    }
+}
